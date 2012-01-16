@@ -1,2 +1,12 @@
 # Ignore all files unless explicitly mentioned
 *
+
+# And the explicitly mentioned are...
+!.gitconfig
+!.gitignore
+!.hgextensions
+!.hgignore_global
+!.hgrc
+!.bashrc
+!.profile
+!.tm_properties
