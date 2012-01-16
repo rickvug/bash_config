@@ -7,6 +7,7 @@
 !.hgextensions
 !.hgignore_global
 !.hgrc
+!.hgextensions/*
 !.bashrc
 !.profile
 !.tm_properties
