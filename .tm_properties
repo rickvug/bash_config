@@ -10,6 +10,7 @@ fontSize = 13
 tabSize = 2
 softTabs = true
 softWrap = false
+spellChecking = true
 
 [ "*.{txt,md,mdown,markdown}"]
 softWrap = true
